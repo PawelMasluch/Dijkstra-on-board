@@ -1,4 +1,4 @@
-// Pawel Masluch, nr albumu 262955
+// Pawel Masluch
 
 #include<iostream>
 #include<queue>
