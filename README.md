@@ -1,4 +1,4 @@
-# Dijkstra-on-board
+# Dijkstra-on-board (en)
 
 Copyright (C) Paweł Maśluch, 2021. All rights reserved.
 
